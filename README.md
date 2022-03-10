@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/matjamr](https://github.com/matjamr)
 
+- I'm member of CosmoPk Group, webdev team
+
 - 📫 How to reach me **jamr.mat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

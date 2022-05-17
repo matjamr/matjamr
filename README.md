@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **jamr.mat@gmail.com**
 
+- Currently working on [puns game](https://github.com/dev-org-com/puns-game-backend)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mateusz-jamroz-31b6171b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateusz-jamr%C3%B3z-31b6171b6" height="30" width="40" /></a>

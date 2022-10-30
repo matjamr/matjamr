@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on habsat fullstack page
 
-- 🌱 I’m currently learning **Spring boot, React-js**
+- 🌱 I’m currently diving into depths of **Spring boot, React-js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/matjamr](https://github.com/matjamr)
 

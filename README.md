@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mateusz Jamróz</h1>
 <h3 align="center">Student at Politechnika Krakowska who is looking forward to be an intern.</h3>
 
-- 🔭 I’m currently working on [Blog (like facebook) app](https://github.com/matjamr/TestingProject)
+- 🔭 I’m currently working on habsat fullstack page
 
 - 🌱 I’m currently learning **Spring boot, React-js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/matjamr](https://github.com/matjamr)
 
-- I'm member of CosmoPk Group, webdev team
+- I'm project leader of CosmoPk Group, webdev team
 
 - 📫 How to reach me **jamr.mat@gmail.com**
 
-- Currently working on [puns game](https://github.com/dev-org-com/puns-game-backend)
+- Sabre employee
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

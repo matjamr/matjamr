@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/matjamr](https://github.com/matjamr)
 
-- I'm project leader of CosmoPk Group, webdev team
+- I'm project leader in CosmoPk Group, webdev team (habsat project)
 
 - 📫 How to reach me **jamr.mat@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz Jamróz</h1>
-<h3 align="center">Student at Politechnika Krakowska who is looking forward to be an intern.</h3>
+<h3 align="center">Student at Politechnika Krakowska and Software Engineer at Sabre.</h3>
 
 - 🔭 I’m currently working on habsat fullstack page
 

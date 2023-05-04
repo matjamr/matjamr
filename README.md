@@ -6,6 +6,7 @@
 - 🌱 I’m currently diving into depths of **Spring boot, React-js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/matjamr](https://github.com/matjamr)
+- !!! Also if You are eager to get to know my abilites better check out my organizations, as there are plenty of examples from hackathones or group collaboration projects :D
 
 - I'm project leader in CosmoPk Group, webdev team (habsat project)
 
